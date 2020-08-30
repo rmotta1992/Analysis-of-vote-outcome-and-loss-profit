@@ -1,0 +1,16 @@
+Script started on Sun Aug 30 18:12:59 2020
+[1m[7m%[27m[1m[0m                                                                                ]7;file://roberts-mbp.lan/Users/robertmotta/desktop/homework/python-challenge/pypoll[0m[27m[24m[J(base) robertmotta@roberts-mbp pypoll % [K[?2004hpython main.py[14Dcd pypoll     [9Dpython main.py[?2004l
+Election Results
+-------------------------
+Total Votes: 3521001
+-------------------------
+Khan: 63.00001050837531% (2218231)
+Correy: 19.999994319797125% (704200)
+Li: 13.999996023857989% (492940)
+O'Tooley: 2.999999147969569% (105630)
+-------------------------
+Winner: Khan
+-------------------------
+[1m[7m%[27m[1m[0m                                                                                ]7;file://roberts-mbp.lan/Users/robertmotta/desktop/homework/python-challenge/pypoll[0m[27m[24m[J(base) robertmotta@roberts-mbp pypoll % [K[?2004heexit[?2004l
+
+Script done on Sun Aug 30 18:13:10 2020
