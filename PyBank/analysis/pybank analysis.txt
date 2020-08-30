@@ -1,0 +1,10 @@
+Script started on Sun Aug 30 18:07:51 2020
+[1m[7m%[27m[1m[0m                                                                                ]7;file://roberts-mbp.lan/Users/robertmotta/desktop/homework/python-challenge/pybank[0m[27m[24m[J(base) robertmotta@roberts-mbp pybank % [K[?2004hppython main.py[?2004l
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: 38382578
+Average Change: 6189.930232558139
+[1m[7m%[27m[1m[0m                                                                                ]7;file://roberts-mbp.lan/Users/robertmotta/desktop/homework/python-challenge/pybank[0m[27m[24m[J(base) robertmotta@roberts-mbp pybank % [K[?2004heexit[?2004l
+
+Script done on Sun Aug 30 18:08:05 2020
